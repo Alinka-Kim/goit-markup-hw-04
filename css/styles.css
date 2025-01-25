@@ -169,7 +169,7 @@ a {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("/images/people-officeMin.jpg");
+    url("../images/people-officeMin.jpg");
   background-repeat: no-repeat;
   margin: 0 auto;
   background-position: center;
